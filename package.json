@@ -10,7 +10,7 @@
   },
   "main": "./lib/grover.js",
   "dependencies": {
-    "ansi-color": "*",
+    "ansicolor": "*",
     "yuitest": "*",
     "cli-table": "*",
     "echoecho": "~0.1.2",
